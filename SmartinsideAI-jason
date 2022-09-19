@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:title" content="Profile Link">
     <meta property="og:description" content="Jason">
-    <meta property="og:image" content="HC.Shin_AI.jpg">
+    <meta property="og:image" content="HC-Shin.jpg">
     
     <title>Jason_SmartInside AI INC.</title>
     <style>
@@ -22,7 +22,7 @@
             height: 100px;        
             border-radius: 100%;
             border: 2px solid white;
-            background-image:url('HC.Shin_AI.jpg');
+            background-image:url('HC-Shin.jpg');
             background-position: center;
             background-size: cover;
         }
@@ -37,7 +37,7 @@
             margin-top: 0px;
             color: white;
             font-size: 17px;
-            margin-bottom: 30px;
+            margin-bottom: 10px;
         }
         .wrap {       
             width: 300px;
@@ -72,11 +72,13 @@
 <body>
     <div class="wrap">
         <div class="profile"></div>
-        <h1 class="main">Jason(Jung, Seongmin)</h1>
+        <h1 class="main">Jason</h1>
         <p class="sub">SmartInside AI INC.</p>
         <p class="sub">Domestic Business Team</p>
         <a target="_blank" href="https://smartinside.ai/">SmartInside AI</a>
+        <a target="_blank" href="https://www.facebook.com/">Facebook</a>
         <a target="_blank" href="https://www.linkedin.com/in/seongmin-jung-93240a24b/">LinkedIn</a>
+        <a target="_blank" herf="https://"></a>
     </div>
 </body>
 </html>
